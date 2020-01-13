@@ -1,0 +1,27 @@
+{
+  "name": "material-react-demo",
+  "version": "1.0.0",
+  "description": "Material React demo page for components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petercraftsmn/material-react.git"
+  },
+  "keywords": [
+    "Material",
+    "React",
+    "UI",
+    "User-interface",
+    "Component",
+    "Components"
+  ],
+  "author": "Peter Craftsmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petercraftsmn/material-react/issues"
+  },
+  "homepage": "https://github.com/petercraftsmn/material-react#readme"
+}
